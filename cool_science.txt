@@ -1,0 +1,414 @@
+NEWS
+
+
+
+FEATURES
+
+
+
+
+                                                                                                       Downloaded from https://www.science.org at University of Colorado Boulder on March 21, 2024
+                                            FOILING DEADLY
+
+                                   PRIONS
+                             Can the course of fatal prion diseases be changed
+                               by removing the protein before it goes bad?
+
+                                               By Meredith Wadman
+
+
+1284   22 MARCH 2024 • VOL 383 ISSUE 6689                                        science.org SCIENCE
+                                                                                                                                                                                                                                                                                                                               NE WS
+
+
+
+
+                                                                                                                                                             M
+                                                                                                                                                                             y friend Charlie Clark began          ally, mostly in people older than 60. In the                 synthetic DNA called an antisense oligo-
+                                                                                                                                                                             complaining that his eye-             United States, that comes to about 500 cases                 nucleotide (ASO) that can reach the brain
+                                                                                                                                                                             glasses were faulty in Septem-        diagnosed each year, the vast majority of                    via an injection into the fluid that bathes
+                                                                                                                                                                             ber 2023. A trip to the optician      them CJD (see table, below). Other animals                   the spine and destroy the messenger RNA
+                                                                                                                                                                             didn’t fix them; they were still      have their prion diseases: scrapie in sheep                  (mRNA) vital to the production of a disease-
+                                                                                                                                                                             “out of alignment,” he said. The      and chronic wasting disease in deer and                      causing protein. The ASO in the new trial,
+                                                                                                                                                                             same month, his insomnia, a           other cervids, which has been reported in                    made by Ionis Pharmaceuticals and dubbed
+                                                                                                                                                                             decades-old problem, became a         32 U.S states and five Canadian provinces.                   ION717, targets the mRNA encoding normal
+                                                                                                                                                                             torment. Still, at age 70, Charlie,   The most famous human form of prion dis-                     prion protein, without which the misfolded
+                                                                                                                                                             a dogged journalist and prominent local               ease, called variant CJD and acquired by                     form can’t arise.
+                                                                                                                                                             historian in Arlington, Virginia, was thriv-          eating beef from cattle with an analogous                       Two other companies aim to remove nor-
+                                                                                                                                                             ing. He masterfully interviewed philanthro-           disease, caused an outbreak in the United                    mal prion protein by different methods.
+                                                                                                                                                             pist David Rubenstein in front of a packed            Kingdom that peaked in the late 1990s and                    Sangamo Therapeutics is developing zinc
+                                                                                                                                                             dinner audience at an Arlington country               early 2000s. It has since faded thanks to                    finger proteins (ZFPs), tailored to bind to
+                                                                                                                                                             club; he put on his tuxedo for a library gala         herd surveillance, culling, and changes to                   patient DNA and shut down expression of
+                                                                                                                                                             at Mount Vernon; and he cranked out, week             cattle feeding practices.                                    the gene for prion protein, called PRNP.
+                                                                                                                                                             after week, his “Our Man in Arlington” col-              Cases acquired from contaminated meat,                    These would be delivered as DNA encoding
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                         Downloaded from https://www.science.org at University of Colorado Boulder on March 21, 2024
+                                                                                                                                                             umn for the Falls Church News-Press.                  blood transfusions, neurosurgical instru-                    the ZFPs, packaged in a harmless virus and
+                                                                                                                                                                In September, “Life was good and happy             ments and grafts now account for less than                   given as a one-time intravenous injection.
+                                                                                                                                                             and rich,” his wife Ellen Clark remembers.            1% of all prion disease. Between 10% and                     Last week, the company reported promising
+                                                                                                                                                             (Ellen and her adult daughters agreed to              15% arises from inherited genetic muta-                      results delivering ZFPs to the brains of non-
+                                                                                                                                                             have Charlie’s story told in this article.)           tions. But most is sporadic, due to out-                     human primates, and it hopes next year to
+                                                                                                                                                                In early October, Charlie suddenly
+                                                                                                                                                             couldn’t remember what day of the week
+                                                                                                                                                             60 Minutes came on, after watching the TV             Three forms of attack
+                                                                                                                                                             program every Sunday night for 40 years.
+CREDITS: (DATA) U.S. CENTERS FOR DISEASE CONTROL AND PREVENTION; NATIONAL PRION DISEASE PATHOLOGY SURVEILLANCE CENTER; (PHOTO, OPPOSITE PAGE) BRIAN WIDDIS
+
+
+
+
+                                                                                                                                                                                                                   Cases of prion disease acquired from eating infected beef made headlines, but less than 1% of prion disease is
+                                                                                                                                                             His sense of where things were in space               caused by external sources of infection, including surgeries and blood transfusions. The vast majority is sporadic
+                                                                                                                                                             grew warped: Out for a walk, he grabbed               Creutzfeldt-Jakob disease (CJD); it simply appears, usually later in life. Inherited mutations cause the rest.
+                                                                                                                                                             Ellen in a panic, thinking a passing car was
+                                                                                                                                                             swerving to hit them on the sidewalk.                                                                      NUMBER OF U.S.     TYPICAL AGE
+                                                                                                                                                                                                                   CLASSIFICATION       NAME OF DISEASE(S)              CASES PER YEAR     OF ONSET        MECHANISM
+                                                                                                                                                                On 22 October, Charlie was admitted to
+                                                                                                                                                             Virginia Hospital Center with increasing              Acquired             Variant CJD, iatrogenic CJD     ≤1                 Varies          Contaminated meat, neuro-
+                                                                                                                                                                                                                                                                                                           surgical instruments and
+                                                                                                                                                             confusion and paranoia. Within days, he                                                                                                       grafts, blood transfusions
+                                                                                                                                                             developed double vision and a left-sided
+                                                                                                                                                                                                                   Genetic              CJD, fatal familial insomnia,   ~50                Midlife         Dominant mutation in the
+                                                                                                                                                             tremor that soon became a rigid paralysis.                                 Gerstmann-Sträussler-                                              gene encoding prion protein
+                                                                                                                                                             In the deafening MRI machine, he thought                                   Scheinker syndrome
+                                                                                                                                                             the hospital was being bombed and cried:
+                                                                                                                                                                                                                   Sporadic             CJD                             ~450               >60             Spontaneous conversion of
+                                                                                                                                                             “We have to save the babies!”                                                                                                                 normal to mutant protein
+                                                                                                                                                                He died on 15 November, after tremen-
+                                                                                                                                                             dous suffering. But until the end, Charlie            of-the-blue misfolding of normal protein                     file for permission to launch a human trial
+                                                                                                                                                             displayed his trademark generosity of spirit.         potentially caused by spontaneous muta-                      in the United Kingdom.
+                                                                                                                                                             “Congratulations on solving the mystery,” he          tions, chemical changes after prions are                        Meanwhile, Gate Bioscience is developing
+                                                                                                                                                             said, holding his hand out to the doctor who          made inside the cell—or both. The result-                    an oral drug that would block the produc-
+                                                                                                                                                             informed him, 12 days before his death, that          ing diseases can look different clinically                   tion of prion protein in brain cells. If things
+                                                                                                                                                             he had Creutzfeldt-Jakob disease (CJD).               because prions, although all versions of the                 go well, the company’s small molecule is
+                                                                                                                                                                CJD is the most prominent of the hand-             same protein, can adopt unique shapes with                   3 to 5 years from the clinic, says CEO Jordi
+                                                                                                                                                             ful of diseases, all fatal, that result when pri-     distinct biochemical properties that tend to                 Mata-Fink (see graphic, p. 1287).
+                                                                                                                                                             ons, proteins of uncertain function that are          attack different brain regions first. But all                   Still other groups are seeking to develop
+                                                                                                                                                             abundant in the brain, misfold into an infec-         end in spread of the misfolded proteins,                     small molecules or antibodies that act later
+                                                                                                                                                             tive form that spreads widely. The aberrant           brain destruction, and death.                                in the process, preventing prion protein
+                                                                                                                                                             proteins convert normal prions to their ma-              Ever since neurologist Stanley Prusiner                   from misfolding or limiting the damage of
+                                                                                                                                                             levolent shape as they add them, like rungs           of the University of California, San Fran-                   the pernicious form. But past attempts have
+                                                                                                                                                             on a ladder, to growing, ropy aggregates that         cisco identified infectious prions as a cause                disappointed, and the three firms leading
+                                                                                                                                                             destroy neurons, effectively chewing holes            of neurodegenerative disease in 1982, the                    the treatment race argue that the first and
+                                                                                                                                                             in the brain. (Prion diseases are officially          quest for treatments has come up short. But                  essential requirement is to snuff out prion
+                                                                                                                                                             called “transmissible spongiform encephalo-           on 4 January, a new era was inaugurated. At                  protein before it’s ever made. “It’s three dif-
+                                                                                                                                                             pathies,” after their “spongiform” Swiss              the University Hospitals Cleveland Medical                   ferent approaches for the same therapeutic
+                                                                                                                                                             cheese patterns of brain damage.)                     Center, the first potential participant was                  hypothesis: that eliminating prion protein
+                                                                                                                                                                                            Prion diseases are     screened in the first randomized, placebo-                   will be meaningful in slowing, stopping,
+                                                                                                                                                             Zach Hoffman (left) with    rare or ultrarare.        controlled trial targeting prion disease in a                maybe even reversing the disease,” Mata-
+                                                                                                                                                             his father Paul and son     There are between         dozen years.                                                 Fink says. “It feels like the cusp of potentially
+                                                                                                                                                             Henry. Zach and Paul        one and two new              The trial will use a strategy already                     a really, really, really big change.”
+                                                                                                                                                             both have a rare genetic    cases per 1 mil-          tested, with mixed success, against other                       “I’ve been in this field for 17 years. This
+                                                                                                                                                             form of prion disease.      lion people annu-         neurodegenerative diseases: a snippet of                     is the first time I have a treatment trial to
+
+                                                                                                                                                             SCIENCE science.org                                                                                                     22 MARCH 2024 • VOL 383 ISSUE 6689          1285
+NEWS | F E AT U R E S
+
+
+offer a patient. … It’s hard not to seem ex-           “patient-scientists.” Minikel refers to prion             cattle, goats, and mice engineered to lack
+cited in front of the families,” says Brian            disease as “our disease.”                                 both copies of the gene for prion protein
+Appleby, a neuropsychiatrist who directs                  Even as green Ph.D. students, they lit a               have been healthy and reproduced perfectly
+the National Prion Disease Pathology Sur-              fire under the research. “Sonia and Eric                  well. And without it, mice and goats have
+veillance Center at Case Western Reserve               brought a unique urgency and therapeutic                  proved invulnerable when their brains are
+University and is the principal investigator           focus to the field,” says Bryan Zeitler, senior           injected with infectious prion; cattle brain
+at the Cleveland site of the Ionis trial.              director of gene regulation at Sangamo.                   tissue examined in the lab has, too.
+   If ION717 works, the payoff might ex-                  Prion scientist Byron Caughey at Rocky                    Vallabh and Minikel even had their own
+tend beyond prion diseases. It has become              Mountain Laboratories, part of the National               human data to show Kordasiewicz. With
+clear in the past 2 decades that abnormal              Institute of Allergy and Infectious Diseases,             far-flung colleagues led by population ge-
+proteins propagate in a prionlike way in Al-           whose lab had recently developed a trans-                 neticist Daniel MacArthur at Massachusetts
+zheimer’s disease, Parkinson’s disease, and            formative diagnostic test for misfolded                   General Hospital, they had analyzed genetic
+other maladies that destroy neurons. “The              prion protein in the spinal fluid, took them              data from more than 600,000 people and
+mechanisms are similar,” says David Harris,            in for training. At the time, Vallabh recalls,            identified several older adults with only one
+a neuroscientist at the Boston University              “I had never held a pipette.”                             functioning prion protein gene. Although
+Medical Center who is working to identify                 Holly Kordasiewicz, now senior vice pres-              they had only half of their normal allot-
+small molecules to block prion misfolding.             ident of neurology research at Ionis, was                 ment of the protein, they were apparently
+
+
+
+
+                                                                                                                                                                    Downloaded from https://www.science.org at University of Colorado Boulder on March 21, 2024
+“And so there’s every reason to think that             also impressed. When the duo visited her                  unaffected.
+therapies developed for prion disease could            at the company’s Carlsbad, California, head-                 Her interest piqued, Kordasiewicz then
+work for other neurodegenerative diseases.”            quarters in 2014 to make an urgent pitch,                 gave the couple a crash course in drug de-
+                                                       Ionis was already deep into developing                    velopment, describing what Ionis would
+THE IONIS trial’s launch is arguably due,              ASOs targeting neurodegenerative diseases;                require to successfully develop an ASO to
+more than anything, to two people: Sonia               it had even developed mouse ASOs for acute                prevent prion disease. They would need
+Vallabh and Eric Minikel, a                                                                                                     studies showing mice treated
+wife-and-husband team at the                                                                                                    with an ASO survived prion
+Broad Institute who have be-                                                                                                    disease better than untreated
+come superstars in the prion                                                                                                    mice. They would need a prion
+research community.                                                                                                             disease patient registry to
+   Vallabh was a 25-year-                                                                                                       speed enrollment in treatment
+old student at Harvard Law                                                                                                      trials. And to help identify
+School in the winter of 2010                                                                                                    participants in an eventual
+when her mother, Kamni                                                                                                          prevention trial, they would
+Vallabh, then 51, a hospitable,                                                                                                 need a study of biomarkers in
+artistic woman who threw                                                                                                        people who carry mutations
+regular dosa-eating contests                                                                                                    for prion disease but have
+for Sonia and her cousins,                                                                                                      not developed symptoms.
+started having double vision                                                                                                    “They took that as a to-do list,”
+and rapidly losing weight. By                                                                                                   Kordasiewicz recalls.
+June, after months of alarm-                                                                                                       “Holly was with us in the
+ing cognitive deterioration,                                                                                                    weeds,” Vallabh said one day
+she was on life support. In                                                                                                     in January as she and Minikel
+December, a less-than-ideal                                                                                                     told their story. Interviewing
+diagnostic     test—the     only                                                                                                the two of them is like speak-
+one available at that time—                                                                                                     ing with a single, highly pas-
+suggested CJD, and after that,                                                                                                  sionate, highly intelligent
+life support was removed.              Sonia Vallabh (right) and Eric Minikel changed careers to study prion disease after      person. Their comments flow
+   Ten months after Kamni’s            learning Vallabh carries a mutation that makes her certain to develop it eventually.     seamlessly into each other’s,
+death, her daughter, by then a                                                                                                  and they seem to be corralling
+law school graduate working in consulting,            prion disease a decade earlier. Slide deck                 every iota of time toward their singular pur-
+received a devastating, revised diagnosis:            in hand, Vallabh and Minikel bluntly told                  pose. Not a word or a gesture is wasted.
+Kamni had died of fatal familial insomnia             Kordasiewicz that the company should also                     Ionis soon provided the duo with ASOs
+(FFI), an ultrarare prion disease that com-           turn its attention to preventing prion dis-                crafted to attack prion disease in mice.
+                                                                                                                                                                                                                                               PHOTO: MONICA JORGE/THE NEW YORK TIMES/REDUX
+
+
+
+
+monly strikes in midlife. FFI is caused by            ease altogether. This was fully possible in                After they collaborated with Caughey’s
+a dominant mutation in the gene for prion             mutation carriers, they argued.                            lab to conduct initial mouse studies, Ionis
+protein, meaning there was a 50% chance                  Their slides laid out a case that remov-                pharmacologist Curt Mazur flew to Boston
+that Sonia had inherited it. In that case, she        ing normal prion protein wasn’t likely to be               to show them how to inject these into the
+would surely develop the disease with time.           harmful. The healthy protein is anchored                   mice’s brains themselves. Another collabo-
+She got tested. She was positive.                     on the cell membranes of neurons and glia                  rator, Deb Cabin, who studies prion disease
+   In a story that is now widely told, Vallabh        throughout the brain, although its best vali-              at the McLaughlin Research Institute, flew
+and Minikel, a transportation consultant,             dated role is in maintaining myelination of                out from Great Falls, Montana, to instruct
+transformed their lives. They left their jobs         peripheral nerves. It may also play roles in               them on inoculating the mice with infec-
+and earned Ph.D.s in biomedical science               neural development, the establishment and                  tious prion.
+at Harvard. They launched a shared lab                proper functioning of synapses, and pro-                      In 2019, Vallabh, Caughey, Minikel, and
+at Broad. They began calling themselves               tecting neurons from cellular stress. But                  their colleagues at Rocky Mountain Labs,
+
+1286     22 MARCH 2024 • VOL 383 ISSUE 6689                                                                                               science.org SCIENCE
+                              Cutting a protein pipeline
+                              For years, scientists have tried unsuccessfully to stymie prion diseases by blocking the conversion of normal
+                              prion protein to its pernicious, misfolded form. But a new generation of experimental therapies for the fatal brain                              Delivery of potential
+                              diseases has moved upstream, seeking to stop even the production of normal prion protein, encoded by the                                       therapy to brain through
+                                                                                                                                                                            cerebrospinal fluid or blood
+                              gene PRNP. Three drugs that are in development use different molecules and mechanisms, and take different
+                              routes to the brain.
+
+
+
+
+                                                      Translation
+                                                             ation           Last steps in
+                                Transcription         of mRNAA into           production            Mis
+                                                                                                    Misfolding and     Neuron damage and
+                                of PRNP gene         amino acid
+                                                             id chain       of prion protein         propagation
+                                                                                                     pr                onset of symptoms
+
+                                                                                                                                                   Death
+
+                                Zinc fingers              ASOs             Molecular gating
+
+
+
+
+                                                                                                                                                                                                                  Downloaded from https://www.science.org at University of Colorado Boulder on March 21, 2024
+                              Zinc fingers
+                                                                                                                     ZFP
+                              Repressing transcription
+                              Zinc finger proteins (ZFPs), delivered
+                                                                   d                                                               Repressor
+                              as DNA encoding the proteins and                                                                                                       PRNP
+                                                                                                                                                                     PRN
+                              packaged in a harmless virus, would be                                                                                                 mRNA
+                                                                                                                                                                     mRN
+                              given once, intravenously. ZFPs bind                                        PRNP gene
+                                                                                                               g nee
+                              to prion DNA, preventing its transcription
+                                                                     ion                                  promoter
+                                                                                                          promot
+                                                                                                               t
+                              to messenger RNA (mRNA).
+                                                                                                                     ZFPs include a repressor domain        Decreased prion            Reduced normal and
+                                                                                                                     to stop PRNP transcription             mRNA levels                misfolded prion protein
+
+
+                                                                                                                 ASO
+                              ASOs
+                              Preventing translation                                                                       ASO
+                              Antisense oligonucleotides (ASOs),
+                              given by repeat injections into spinal
+                              fluid, attack mRNA and its precursor                                                                   RNA                   RNase H
+                              (pre-mRNA), stopping the creation
+                              of prion protein.                                                             ASOs are engineered to bind          An enzyme is recruited that           Reduced normal and
+                                                                                                            to prion pre-mRNA and mRNA           degrades pre-mRNA and mRNA            misfolded prion protein
+
+
+                                                                                                                                 Sec61                                      Cell membrane
+                              Molecular gating                                                                        mRNA
+                                                                                                                                                                                  Normal
+                              Stopping prion production
+                                                     on
+                              Small molecules given as pills
+                              would obstruct the sec61 protein                                             Ribosome
+                              channel where the ribosome feeds
+                              the prion’s amino acid sequence                                                                                                                        Misfolded
+                                                                                                                                                                     ER
+                              into the endoplasmic reticulum (ER).
+                              This blocks the final stages of the                                          Sma
+                                                                                                           Small                                                                       Reduced normal and
+                              protein’s production.                                                        molecule
+                                                                                                           mol                                                                         misfolded prion protein
+
+
+                              Ionis, and elsewhere reported encouraging                        prion protein in the brains of humans and               get another mRNA molecule. In 2021, the
+                              results from the mouse studies in JCI In-                        animals using spinal fluid samples—a tool               company selected a molecule for human
+                              sight. The team found mice injected with                         that would be needed to show the impact                 testing, ION717, and soon won U.S Food
+                              ASOs survived 61% to 98% longer than con-                        of an ASO in human treatment trials. Ionis              and Drug Administration (FDA) approval to
+                              trol mice after being inoculated with infec-                     helped support this work; it has awarded the            move into clinical trials.
+                              tious prions. Even mice not treated with                         couple more than $1 million in funding since               “The Ionis thing is really a tribute to the
+                              the ASO until 120 days after inoculation—                        2018. But they do not have equity in the com-           work of Eric Minikel and Sonia Vallabh,”
+                              shortly before symptoms typically appear—                        pany and do not stand to benefit financially            Harris says. “It’s a tribute to their persis-
+                              lived 55% longer, suggesting the ASO was                         if ION717 succeeds commercially.                        tence and determination.”
+GRAPHIC: N. BURGESS/SCIENCE
+
+
+
+
+                              helpful even after significant amounts of                           Meanwhile, propelled by Vallabh and
+                              toxic prion had already accumulated.                             Minikel’s successes and progress from its               PAUL HOFFMAN, 61, formerly a machinist at
+                                 The couple and collaborators soon showed                      own internal research group, Ionis designed             an injection molding company in Reed City,
+                              that the survival benefits were directly corre-                  ASOs to treat people. When the ASO binds                Michigan, began unaccountably losing his
+                              lated with the degree of suppression of prion                    to the mRNA encoding normal prion pro-                  balance in the spring of 2020. He stumbled
+                              RNA in the animals’ brains. They developed                       tein, it summons an enzyme that destroys                and had a hard time picking up his feet. He
+                              a test to accurately gauge levels of normal                      the mRNA. The ASO is then freed up to tar-              began sitting at a machine where he had
+
+                              SCIENCE science.org                                                                                                            22 MARCH 2024 • VOL 383 ISSUE 6689            1287
+                                                                                                                                                                            Downloaded from https://www.science.org at University of Colorado Boulder on March 21, 2024
+   Zach Hoffman, pictured at a physical therapy appointment, has enrolled in Ionis Pharmaceuticals’s clinical trial of antisense oligonucleotides to treat prion disease.
+
+
+
+stood for 40 years. His physicians ruled                  The ready tears are “a complete flip” from                     Some of Ionis’s previous bets on ASOs
+out blood sugar problems, Lyme disease,                   Paul’s predisease personality, notes his wife,              have paid off. FDA granted approval in
+Long Covid, and heavy metal poisoning, but                Billi Hoffman.                                              December 2016 for nusinersen, an Ionis
+couldn’t come up with a diagnosis.                           Zach’s motivation for participating is                   drug licensed to Biogen that treats the
+   In 2021, his son, Zach Hoffman, a de-                  his son—“so that if he does have it, they                   neuromuscular disease spinal muscular
+signer at the same company, started to                    can treat him.” (If Henry has inherited the                 atrophy (SMA). Eight years of real-world
+have similar symptoms. When he sought                     disease-causing mutation, his symptoms                      use later, it has conferred significant ben-
+medical help in the spring of 2023, his pri-              won’t occur until adulthood; he can decide                  efits, especially when given before children
+mary care provider promptly sent him to a                 whether to get tested after he turns 18.)                   develop symptoms. And last year, FDA
+geneticist. Test results arrived when Zach’s                 The researchers plan to enroll 56 patients               granted approval for an ASO targeting a
+wife Mackenzie Hoffman was 9 months                       who are early in the course of prion disease                rare genetic form of amyotrophic lateral
+pregnant with the couple’s first child. Zach,             in Cleveland and at study sites in Los An-                  sclerosis (ALS), developed by Ionis and li-
+32, had Gerstmann-Sträussler-Scheinker                    geles; Barcelona, Spain; Boston; Göttingen,                 censed to Biogen. Ionis also published en-
+(GSS) disease, an extremely rare, domi-                   Germany; Edmonton, Canada; and else-                        couraging biomarker results from an early
+nantly inherited prion disease that sets in               where. Each patient will receive a 24-week                  human trial using an ASO to attack the
+as early as the fourth decade of life and is              series of spinal injections, some of them ac-               aberrant protein called tau in people with
+usually fatal in 2 to 10 years. (This slower              tive ASO and some of them placebo, if they                  mild Alzheimer’s.
+time course is unusual in prion diseases.)                live that long; CJD patients typically survive                 But other Ionis ASOs targeting brain dis-
+Paul’s own genetic test came back posi-                   just 4 to 6 months after symptoms appear.                   eases have disappointed. In 2021, its ASO
+tive for GSS disease a few days before the                The trial, the company hopes, will conclude                 attacking Huntington disease failed in a
+birth of Zach and Mackenzie’s son Henry,                  by October 2025.                                            late-stage clinical trial. In 2022, the com-
+“a little ray of sunshine in the shitstorm,”                 Zach and Paul know this trial is only                    pany and its partner Biogen pulled the plug
+Mackenzie says.                                           aimed at establishing the safety and appro-                 on an early human trial of an ASO targeting
+   In January, both men arrived at an ex-                 priate dosing levels of the ASO. In addition                the most common known ALS mutation.
+amination room at University Hospitals in                 to common and expected side effects with                       Qingzhong Kong, a molecular biologist
+wheelchairs. There, Appleby and his team                  spinal injections, such as headache and                     at Case Western, says “the biggest problem”
+screened them for entry into the Ionis trial,             back pain, the researchers will watch for                   with ASOs is that spinal injections are inva-
+doing neurological exams, running electro-                numbness or weakness in the limbs, which                    sive, often have uncomfortable side effects,
+cardiograms, taking blood and urine, and                  mouse studies indicate could be a side effect               and require weeks or months of repeated
+asking them to repeat lists of words.                     of long-term antiprion therapy.                             administration. (He is working to develop
+   Paul, a big, bald man with a full gray                    But in the face of rapidly progressive,                  an alternate upstream strategy, a one-time
+mustache and beard, retired from his job                  uniformly fatal diseases, the risk-benefit                  intravenous injection of the gene for a small
+in 2023. He says he’s enrolling in the trial              ratio is small, says Sangamo’s Zeitler, who                 RNA molecule that would silence expres-
+                                                                                                                                                                                                                                                       PHOTO: BRIAN WIDDIS
+
+
+
+
+“to help everybody,” but also in hopes it                 is not involved in the trial. “The unmet                    sion of the PRNP gene.) Getting the ASOs
+might touch his symptoms. “I’m all for it if              need is extraordinary and … the science is                  to spread throughout the brain is another
+it [makes] … my daily life just a little better,”         very clear that there [are] no overt safety                 challenge, he says. They penetrate the cere-
+he manages, through sobs. Emotional labil-                concerns,” he says. “It seems like a good bet               bral cortex readily but have more difficulty
+ity is a common symptom of prion disease.                 to make.”                                                   reaching deeper parts of the brain, such as
+
+1288    22 MARCH 2024 • VOL 383 ISSUE 6689                                                                                                          science.org SCIENCE
+                                                                                                                                                         NE WS | F E AT U R E S
+
+
+                     the striatum, which are also damaged by               Other researchers say blocking the pro-                tomatic patients, Minikel concedes, “the
+                     prion disease.                                     duction of normal prion protein may not                   [existing] protein has to clear according to
+                        “We start getting less drug as you go into      be enough. For the 85% to 90% of people                   its own half-life. And how many more half-
+                     the deeper brain structures,” Kordasiewicz         with sporadic disease who have no means                   lives is that patient going to be alive for? Or
+                     acknowledges. But she adds that the ASO Io-        of foreseeing its onset, “you are never go-               going to have quality of life left for?”
+                     nis is developing for mild Alzheimer’s, which      ing to completely prevent the conversion”                    But the story might be different for the
+                     is very similar in design to ION717, reversed      of normal prion protein to its toxic cousin,              10% to 15% of people who carry a mutation
+                     buildup of misfolded tau protein throughout        Harris says. “You want to combine it with                 like Vallabh’s. For them, starting a prion-
+                     the brain, “giving us some confidence that         something that acts downstream.”                          removing therapy before symptoms ever
+                     we are targeting broadly.”                            Harris is searching for such an agent by               show up is the obvious goal, the duo argues.
+                        If ION717 proves effective, treatment will      probing just how misfolded prions wreak                   Ionis is fully behind that approach, which
+                     likely be costly, as is typical for rare disease   their damage. He has identified an enzyme,                would expand its market, given that a preven-
+                     therapies. Ionis’s SMA drug, nusinersen,           P38MAPK, part of a neuronal signaling                     tive therapy would be administered for years.
+                     has a list price of $750,000 for the first year    pathway activated by the misshapen pro-                   “Our goal is to treat all patients with prion
+                     of injections, and $375,000 annually after         tein, which leads to the collapse of neurons’             disease … patients who are gene carriers, as
+                     that. (The drug is typically given from early      dendritic spines. Drug designers might tar-               well as symptomatic patients,” Kordasiewicz
+                     childhood.) An ASO for a still-rarer group         get that enzyme or others in the pathway to               told investors on a call in October 2023.
+
+
+
+
+                                                                                                                                                                                      Downloaded from https://www.science.org at University of Colorado Boulder on March 21, 2024
+                     of diseases with a much shorter course             protect neurons, he says.                                    Vallabh, who turned 40 this week, adds:
+                     “will be priced accordingly,” says Allison            John Collinge, a neurologist at University             “When you’re sitting in [my] seat, the pros-
+                     Bratzel, a senior research analyst who fol-        College London, has long been pursuing a                  pect of waiting until all the dominoes are
+                     lows Ionis for investment banking firm             downstream intervention. He showed in 2003                falling and trying to chase after them …
+                     Piper Sandler & Co. Bratzel notes that if          that antiprion antibodies prolonged survival              seems like madness.”
+                     ION717 is approved, Ionis will need to work        in mice with prion disease. In a compassion-                 Vallabh and Minikel are, at least, not
+                     to find patients while there is still time to      ate use study in six people published in 2022,            carrying one weight that burdens the
+                     treat them. On the other hand, she adds:           an intravenous antibody treatment didn’t                  Hoffmans and other families. They used
+                     “We’ve seen with rare diseases … once there’s      noticeably alter their disease course. But two            preimplantation genetic diagnosis to en-
+                     a treatment for it, doctors are more likely        autopsies hinted that the antibodies might                sure that FFI has been rooted out of their
+                     to look for it, and diagnosis rates go up.”        be reducing and clearing misfolded protein                family. Their children, now ages 4 and
+                                                                        from the brain. “The evidence is clearly there            6, do not carry their mother’s mutation.
+                     IN JANUARY, in the small office Minikel            that it’s time to do an efficacy study,” Collinge
+                     shares with Vallabh at Broad, he was im-           says, but no one in the private sector wants to           ON THE DAY I visited the Cleveland trial site,
+                     mersed in online conversation with a col-          fund a randomized, controlled trial. “There’s             a list of genetic testing results from recently
+                     laborator. “We obviously need more than            barely a company I haven’t spoken to over the             donated brains landed in Appleby’s inbox.
+                     one shot on goal,” he said, leaning forward        past couple of years,” he says. “Their business           Case Western’s prion pathology surveillance
+                     with trademark intensity.                          development team[s] … [all] say the numbers               center is the only site in the country that
+                        Minikel and Vallabh are living that phi-        don’t add up.”                                            receives, processes, and stores for research
+                     losophy. Having propelled the Ionis trial             Even if the Ionis ASO succeeds at sub-                 the brains of people who died of prion
+                     into reality, they are now collaborating with      stantially lowering prion mRNA in symp-                   disease and chose to be organ donors—
+                     Sangamo, testing the company’s zinc                                                                               thousands of them so far. My friend
+                     finger reagents in mice as it prepares to                                                                         Charlie Clark was now one of them.
+                     file for regulatory approval to launch a                                                                             For each new donor, Appleby reviews
+                     human trial. They’re also working with                                                                            the results before they are communi-
+                     Gate Bioscience, whose CEO, Mata-Fink,                                                                            cated to surviving family members. The
+                     says it was Minikel’s blog, cureFFI.org,                                                                          last report in his inbox that day was
+                     that led him to reach out to the duo and                                                                          Charlie’s. His family had given Appleby
+                     eventually commit his company to at-                                                                              permission to discuss the results with
+                     tacking prion disease. The startup’s ap-                                                                          me, but first he walked out of earshot
+                     proach, called molecular gating, uses a                                                                           and called Ellen Clark.
+                     small molecule that parks itself in the                                                                              He told her that Charlie’s disease
+                     channel leading to the endoplasmic re-                                                                            had been sporadic, not genetic, so their
+                     ticulum, where proteins destined to be                                                                            daughters were not at risk of having in-
+                     secreted from the cell go through the                                                                             herited the disease. And he explained
+                     final stages of manufacturing. The drug                                                                           that Charlie had a naturally occurring
+                     is intended to block the nascent chain of                                                                         version of the prion gene present in one-
+                     amino acids that gives rise to the prion                                                                          third to one-half of people of European
+                     protein from passing through. With no                                                                             descent that is associated with very
+                     finished prions produced, misfolded pri-                                                                          rapid progression if a person spontane-
+                     ons have no substrate for their mischief.                                                                         ously develops prion disease.
+                        Minikel and Vallabh have been “help-                                                                              Ellen told Appleby some things about
+PHOTO: ELLEN CLARK
+
+
+
+
+                     ing us understand the path forward                                                                                Charlie, too.
+                     and giving us a bit of a foothold in                                                                                 When he rejoined me, he said: “I
+                     the disease,” Mata-Fink says. He adds:                                                                            didn’t realize that he also was a journal-
+                     “They’re an incredible center node of                                                                             ist, and this [article] is like his ultimate
+                     this community.”                                   Charlie Clark near Arlington National Cemetery in 2021.        contribution. That’s kind of beautiful.” j
+
+                     SCIENCE science.org                                                                                              22 MARCH 2024 • VOL 383 ISSUE 6689    1289
+
