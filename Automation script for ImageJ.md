@@ -1,0 +1,2 @@
+-I will share my ImageJ scripts that will save a lot of time in stacking images.
+-You may want to make some edits depeong on your particular usecase.
